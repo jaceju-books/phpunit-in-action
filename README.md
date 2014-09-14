@@ -1,8 +1,11 @@
 # PHPUnit 入門與實戰
 
-## 講師
+## 作者
 
-Jace Ju ，現任 KKBOX 網站資深工程師
+Jace Ju
+
+* 《PHP Smarty 樣版引擎》作者
+* 現任 KKBOX 網站資深工程師
 
 ## 說明
 
