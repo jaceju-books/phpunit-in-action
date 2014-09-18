@@ -26,6 +26,5 @@
    * [處理用戶回饋的錯誤](chapters/03/4.md)
 * [測試驅動開發](chapters/04/index.md)
    * [專案範例](chapters/04/1.md)
-   * [測試先行](chapters/04/2.md)
-   * [寫出可以測試的程式](chapters/04/3.md)
+   * [實作練習](chapters/04/2.md)
 
