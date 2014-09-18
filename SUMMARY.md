@@ -24,10 +24,8 @@
    * [測試跟隨程式改變](chapters/03/2.md)
    * [測試保障重構](chapters/03/3.md)
    * [處理用戶回饋的錯誤](chapters/03/4.md)
-   * [模擬的環境](chapters/03/5.md)
 * [測試驅動開發](chapters/04/index.md)
-   * [測試先行](chapters/04/1.md)
-   * [確保目標的進行](chapters/04/2.md)
+   * [專案範例](chapters/04/1.md)
+   * [測試先行](chapters/04/2.md)
    * [寫出可以測試的程式](chapters/04/3.md)
-   * [物件導向設計守則](chapters/04/4.md)
 
