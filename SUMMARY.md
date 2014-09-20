@@ -2,7 +2,7 @@
 
 * [本書介紹](README.md)
 * [準備工作](chapters/00/INDEX.md)
-   * [開發與執行環境](chapters/00/1.md)
+   * [PHP 執行環境](chapters/00/1.md)
    * [安裝 Xdebug](chapters/00/2.md)
    * [安裝 Composer](chapters/00/3.md)
    * [準備本書範例](chapters/00/4.md)
