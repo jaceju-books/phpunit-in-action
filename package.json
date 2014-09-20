@@ -1,0 +1,13 @@
+{
+    "name": "book-phpunit-in-action",
+    "version": "0.0.5",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jaceju/book-phpunit-in-action.git"
+    },
+    "author": "Jace Ju <jaceju@gmail.com>",
+    "dependencies": {
+        "gitbook-plugin-disqus": "*"
+    }
+}
